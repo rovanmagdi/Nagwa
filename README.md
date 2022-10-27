@@ -57,14 +57,12 @@ Enter this command to run the node app.
 ## Answer Wrong
 ![Screenshot (39)](https://user-images.githubusercontent.com/64366119/198353892-cf85ae48-2339-4ed3-9202-3f821f58c249.png)
 
-##Answer Right
+## Finish Exam
 ![Screenshot (41)](https://user-images.githubusercontent.com/64366119/198353909-ff5e3611-920c-4540-b585-d2eb866d08b8.png)
 
-## Finish Exam
+## Rank of Score
 ![Screenshot (42)](https://user-images.githubusercontent.com/64366119/198353922-6f37d8ca-4c87-4e28-87ab-9d64e39f0d99.png)
 
-## Rank of Score
-![Screenshot (42)](https://user-images.githubusercontent.com/64366119/198354611-ad0d4124-665f-4fad-a714-7911ac80c13a.png)
 
 
 ## Contact us
